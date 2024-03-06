@@ -59,20 +59,20 @@
   --base-line-height: 1.5;
   --base-text-weight-bold: 600;
   --secondary-color: #bfbfbf;
-  --content-link-color: var(--primary-color-dark);
+  // --content-link-color: var(--primary-color-dark);
   --font-color-on-primary: #FFFFFF;
   --font-color-on-primary-dark: #FFFFFF;
   --font-color-on-secondary: #FFFFFF;
   --font-color-on-alternative: #FFFFFF;
   --list-side-margin: 40px;
   --header-height: 55px;
-  --header-bg-color: #1A67A3;
+  // --header-bg-color: #1A67A3;
   --header-border-bottom-color: var(--primary-color);
   --header-border-bottom-width: 0;
   --header-item-font-size: 14px;
   --header-item-font-color: #FFFFFF;
   --header-item-font-hover-color: #FFFFFF;
-  --header-item-bg-hover-color: #175A8E;
+  // --header-item-bg-hover-color: #175A8E;
   --header-drop-down-bg-color: #FFFFFF;
   --header-drop-down-border-color: #DDDDDD;
   --header-drop-down-item-font-hover-color: var(--primary-color);
@@ -81,11 +81,11 @@
   --main-menu-border-color: #EAEAEA;
   --main-menu-border-width: 0px;
   --main-menu-item-height: 40px;
-  --main-menu-bg-color: #333739;
-  --main-menu-bg-selected-background: #175A8E;
-  --main-menu-bg-hover-background: #124E7C;
+  // --main-menu-bg-color: #333739;
+  // --main-menu-bg-selected-background: #175A8E;
+  // --main-menu-bg-hover-background: #124E7C;
   --main-menu-font-color: #FFFFFF;
-  --main-menu-hover-font-color: var(--main-menu-font-color);
+  // --main-menu-hover-font-color: var(--main-menu-font-color);
   --main-menu-resizer-color: var(--primary-color);
   --main-menu-selected-font-color: var(--main-menu-font-color);
   --main-menu-font-size: 14px;
@@ -145,4 +145,14 @@
   --list-item-hover--border-color: var(--color-canvas-default-transparent);
   --list-item-hover--color: var(--primary-color-dark);
   --link-text-decoration: none;
+
+  --header-bg-color: #655D8A;
+
+  --main-menu-bg-selected-background: #948ABB;
+  --main-menu-hover-font-color: #fff;
+  --main-menu-bg-hover-background: #948ABB;
+
+  --header-item-bg-hover-color: #19163C;
+  --content-link-color: #948ABB;
+  --main-menu-bg-color: #635A88;
 }
